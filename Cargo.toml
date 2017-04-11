@@ -1,5 +1,9 @@
 [package]
 
-name = "hello_world"
+name = "guessing_game"
 version = "0.0.1"
 authors = [ "Arda Cinar <kuzux92@gmail.com>" ]
+
+[dependencies]
+
+rand = "0.3.0"
